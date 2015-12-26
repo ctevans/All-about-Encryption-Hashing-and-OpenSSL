@@ -7,7 +7,7 @@ Given Encrypted Files, break them. Given passwords hashed with various hash func
 Given an encrypted file (ciphertext1) encrypted with a variation of the Vignere Cipher, the goal was to break the encryption and reveal the original contents of the file before encryption.
 
 The encryption scheme is depited in this image.
-![](http://imgur.com/KQWgUKQ)
+http://imgur.com/KQWgUKQ
 
 Using the program created, part1_2.py, the encrypted files were processed and decrypted. 
 
