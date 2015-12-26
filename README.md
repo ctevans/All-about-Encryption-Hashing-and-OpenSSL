@@ -12,3 +12,8 @@ The encryption scheme is depited in this image.
 This ended up yielding two results:
 plaintext1: A short text file containing Yesterday by W. S. Merwin.
 plaintext2: A rich text file containing "Boycott Action Kit", an 18 page document containing numerous colored images, hyperlinks and in-depth formatting.
+
+Furthermore the keys used to encrypt the documents were also obtained:
+
+ciphertext1 password: 4fathers
+ciphertext2 password: Pass_TheBoycottActionKit_GentBelgium
