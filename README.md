@@ -1,4 +1,4 @@
-# All-about-Encryption-and-Hashing
+# All-about-Encryption-Hashing and OpenSSL.
 Given Encrypted Files, break them. Given passwords hashed with various hash functions, find the original passwords. Use encryption and hashing on our own data. Also using the tool OpenSSL.
 
 ## This has multiple parts to itself, and so I will explain here what each is and it's purpose.
