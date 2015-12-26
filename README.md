@@ -3,7 +3,9 @@ Given Encrypted Files, break them. Given passwords hashed with various hash func
 
 ## This has multiple parts to itself, and so I will explain here what each is and it's purpose.
 
-##Part 1:
+##Part 1 and Part 2:
+Language: Python 3
+
 Given an encrypted file (ciphertext1) encrypted with a variation of the Vignere Cipher, the goal was to break the encryption and reveal the original contents of the file before encryption.
 
 The encryption scheme is depited in this image.
@@ -13,4 +15,8 @@ This ended up yielding two results:
 plaintext1: A short text file containing Yesterday by W. S. Merwin.
 plaintext2: A rich text file containing "Boycott Action Kit", an 18 page document containing numerous colored images, hyperlinks and in-depth formatting.
 
-##Part 2:
+Furthermore the keys used to encrypt were also obtained:
+
+ciphertext1 password: 4fathers
+
+ciphertext2 password: Pass_TheBoycottActionKit_GentBelgium
